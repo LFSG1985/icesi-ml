@@ -1,0 +1,11 @@
+    1  yum install -y git
+    2  sudo yum install -y git
+    3  git --version
+    4  clear
+    5  git clone git@github.com:LFSG1985/icesi-ml.git
+    6   ssh-keygen -t ed25519 -C "luisfelipesuarez64@hotmail.com"
+    7  cat /home/ec2-user/.ssh/id_ed25519.pub
+    8  yum -version
+    9  git -version
+   10  git --version
+   11  history > history-20230318.txt
